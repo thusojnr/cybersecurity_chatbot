@@ -1,0 +1,7 @@
+C:\Users\naoyu\Source\Repos\cybersecurity_chatbot\cybersecurity_chatbot\bin\Debug\cybersecurity_chatbot.exe.config
+C:\Users\naoyu\Source\Repos\cybersecurity_chatbot\cybersecurity_chatbot\bin\Debug\cybersecurity_chatbot.exe
+C:\Users\naoyu\Source\Repos\cybersecurity_chatbot\cybersecurity_chatbot\bin\Debug\cybersecurity_chatbot.pdb
+C:\Users\naoyu\Source\Repos\cybersecurity_chatbot\cybersecurity_chatbot\obj\Debug\cybersecurity_chatbot.csproj.AssemblyReference.cache
+C:\Users\naoyu\Source\Repos\cybersecurity_chatbot\cybersecurity_chatbot\obj\Debug\cybersecurity_chatbot.csproj.CoreCompileInputs.cache
+C:\Users\naoyu\Source\Repos\cybersecurity_chatbot\cybersecurity_chatbot\obj\Debug\cybersecurity_chatbot.exe
+C:\Users\naoyu\Source\Repos\cybersecurity_chatbot\cybersecurity_chatbot\obj\Debug\cybersecurity_chatbot.pdb
